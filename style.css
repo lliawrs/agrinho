@@ -1,0 +1,28 @@
+:root{
+    --cor-de-fundo: #add8e6;
+    --texto: #000000;
+}
+body{
+    /* hhhhhh */
+    background-color:var(--cor-de-fundo);
+    color: var(--texto);
+    
+    }
+    img{
+        width: 10%;
+    }
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+.img-filmes{
+    width: 10%;
+}
+    .filmes{
+        display: flex;
+    }
+ .subtítulo{
+     display: flex
+ }
+        
