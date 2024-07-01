@@ -20,7 +20,7 @@ header{
     width: 10%;
 }
     .filmes{
-        display: flex;
+        display: block;
     }
  .subtítulo{
      display:inline
