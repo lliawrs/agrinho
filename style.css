@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo: #add8e6;
+    --cor-de-fundo: #ffffff;
     --texto: #000000;
 }
 body{
@@ -12,7 +12,7 @@ body{
         width: 40%;
     }
 header{
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     align-items: baseline;
 }
