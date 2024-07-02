@@ -1,7 +1,7 @@
 
 *{
-    margin: 1%;
-    padding: 1%;
+    margin: 0%;
+    padding: 0%;
 }
 :root{
     --cor-de-fundo: #ffffff;
@@ -17,6 +17,7 @@ body{
         width: 40%;
     }
 header{
+    background-color: rgb(195, 236, 220);
     display: block;
     flex-wrap: wrap;
     align-items: baseline;
