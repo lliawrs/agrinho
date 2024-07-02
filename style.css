@@ -14,7 +14,8 @@ body{
     
     }
     img{
-        width: 40%;
+        width: 15%;
+        display: flex;
     }
 header{
     background-color:#d5e2c3 
