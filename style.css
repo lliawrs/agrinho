@@ -10,11 +10,7 @@
 body{
     /* hhhhhh */
     background-color:var(--cor-de-fundo);
-    color: var(--texto);
-    
-    }
-    img.filme{
-        wigth: 40%;
+    color: var(--texto);   
     }
     img{
         width: 15%;
@@ -36,5 +32,8 @@ header{
     }
  .subtítulo{
      display:inline
+ }
+ .filme{
+    width: 40%;
  }
         
