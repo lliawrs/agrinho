@@ -18,7 +18,7 @@ header{
 }
 .img-filmes{
     width: 50%;
-    display:contents
+    display: block;
 }
     .filmes{
         display: block;
