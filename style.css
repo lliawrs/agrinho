@@ -13,6 +13,9 @@ body{
     color: var(--texto);
     
     }
+    img.filme{
+        wigth: 40%;
+    }
     img{
         width: 15%;
         justify-content: center;
