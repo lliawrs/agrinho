@@ -16,7 +16,7 @@ body{
     img{
         width: 15%;
         justify-content: center;
-        display: flex;
+        display:contents;
     }
 header{
     background-color:#d5e2c3 
