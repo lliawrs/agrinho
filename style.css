@@ -38,5 +38,6 @@ header{
  }
  .foto-equipe{
     width: 20%;
+    display: flex;
 
  }
