@@ -28,7 +28,7 @@ header{
 
 }
     .filmes{
-        display: block;
+        display: flex;
     }
  .subtítulo{
      display:inline
