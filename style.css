@@ -38,6 +38,8 @@ header{
  }
  .foto-equipe{
     width: 20%;
+ }
+
+ #sobre-nós{
     display: flex;
-    justify-content: center;
  }
