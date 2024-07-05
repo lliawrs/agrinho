@@ -18,14 +18,14 @@ body{
         display:flex;
     }
 header{
-    background-color:#d5e2c3 
-    display: block;
+    background-color:#d5e2c3; 
+    display: flex;
     flex-wrap: wrap;
     align-items: baseline;
 }
 .img-filmes{
     width: 50%;
-    display: flex;
+
 }
     .filmes{
         display: block;
@@ -38,5 +38,5 @@ header{
  }
  .foto-equipe{
     width: 20%;
-    display: flex;
+
  }
