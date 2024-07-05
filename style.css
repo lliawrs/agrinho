@@ -43,3 +43,6 @@ header{
  #sobre-nós{
     display: flex;
  }
+ footer{
+    background-color: #d5e2c3; 
+ }
