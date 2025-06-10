@@ -22,7 +22,7 @@ header{
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    min-height: 400px;
+    min-height: 40px;
 }
 .img-filmes{
     width: 50%;
