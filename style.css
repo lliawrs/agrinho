@@ -18,10 +18,11 @@ body{
         display:flex;
     }
 header{
-    background-color:#d5e2c3; 
+    background-color:#94af6d; 
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
+    min-height: 400px;
 }
 .img-filmes{
     width: 50%;
@@ -44,5 +45,5 @@ header{
     display: flex;
  }
  footer{
-    background-color: #d5e2c3; 
+    background-color: #94af6d; 
  }
