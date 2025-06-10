@@ -49,5 +49,7 @@ header{
  }
  .titulo{
     display: center;
-    
+ }
+ .sobre{
+    display: flex;
  }
