@@ -19,10 +19,11 @@ body{
     }
 header{
     background-color:#94af6d; 
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    min-height: 100px;
+      display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
 }
 .img-filmes{
     width: 50%;
@@ -50,6 +51,8 @@ header{
  .titulo{
     display: center;
  }
- .sobre{
-    display: flex;
- }
+nav a {
+    text-decoration: none; 
+    color: inherit; 
+    margin-top: 20px; 
+}
