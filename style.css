@@ -18,12 +18,13 @@ body{
         display:flex;
     }
 header{
-    background-color:#94af6d; 
-      display: flex;
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center; 
-    text-align: center;
+    display: flex;
+    width: 100%;
+    background-color: #94af6d;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-between;
+    gap: 20px;
 }
 .img-filmes{
     width: 50%;
@@ -55,7 +56,4 @@ nav a {
     text-decoration: none; 
     color: inherit; 
     margin-top: 20px; 
-}
-.introdução{
-    
 }
